@@ -13,3 +13,4 @@ This is used if you want to drive two stepper motors simultaneously.
  - Jumpers for Micro-Stepping.
  - On-Board 3.3V regulator.
  - Connector for Motor Power Supply (12V,24V etc)
+ - Second, paralleled input connector, allow daisy chaining to another parallel module so you could drive four motors and so on.
